@@ -1,0 +1,12 @@
+
+*.py[cod]
+*$py.class
+.idea
+*.so
+.env
+.vscode
+env
+.python-version
+static_root
+media
+.media
